@@ -1,0 +1,39 @@
+
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<div id="main">
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <h1 id="title"> Anthony Bourdain </h1>
+  </head>
+
+  <body>
+    <div id="subhead"> Connoisseur of the Human Condition </div>
+
+    <div id="img-div">
+      <img id="image" class="image" src="http://www.latimes.com/resizer/pAeZw4YzYsMjzO5dnN1VSwMnD-Q=/1400x0/www.trbimg.com/img-5b5f1939/turbine/la-1532959029-bt1rjxeudi-snap-image" alt="Anthony Bourdain gazing at the ocean">
+      <div id="img-caption"> Anthony Bourdain created a genre of tv show aimed at exploring foriegn cultures through their food.</div>
+      <div id="tribute-info">
+        <h2> Heres a brief description of Anthony Bourdain's accomplishments:</h2>
+        <ul class=list>
+          <li><strong>1956</strong> Born</li>
+          <li><strong>1978</strong> Graduated from T Culinary Institute of America</li>
+          <li><strong>1994</strong> Became executive chef at Brasserie Les Halles in Manhatten</li>
+          <li><strong>2000</strong> Published New York Times best selling book: <a id="tribute-link" href="https://www.amazon.com/Kitchen-Confidential-Adventures-Culinary-Underbelly/dp/158234082X/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=NSX51MMKMFEPJ37YP7FB"
+              target="_blank">"Kitchen Confidential"</a></li>
+          <li><strong>2002-2003</strong> "A Cook's Tour," his first world-travel food show, aired on the Travel Channel</li>
+          <li><strong>2005-2012</strong> Hosted "Anthony Bourdain: No Reservations"
+            <li><strong>2013</strong> Spent three seasons as a judge on "The Taste"
+              <li><strong>2013-2018</strong> Hosted Anthony Bourdain: Parts Unknown
+                <li><strong>2018</strong> Suicide</li>
+        </ul>
+      </div>
+      <blockquote id="blockquote">"Without experimentation, a willingness to ask questions and try new things, we shall surely become static, repetitive, and moribund."</blockquote>
+      <h3> To explore this beautiful mind further, you should read his NY Times best-seller <a id="tribute-link" href="https://www.amazon.com/Kitchen-Confidential-Adventures-Culinary-Underbelly/dp/158234082X/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=NSX51MMKMFEPJ37YP7FB"
+          target="_blank">"Kitchen Confidential."</a></h3>
+
+  </body>
+
+  </html>
+
